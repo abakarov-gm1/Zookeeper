@@ -125,7 +125,7 @@ while count != 'exit':
 
     animals = [camel, lion, deer, goose, bat, rabbit]
 
-    print(animals[int(count[-1])])
+    print(animals[int(count)])
 
     count = input('Please enter the number of the habitat you would like to view: ')
 
